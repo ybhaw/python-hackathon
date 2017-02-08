@@ -1,0 +1,1 @@
+when using py2exe on installer, copy all files in Dependencies to the dist folder
